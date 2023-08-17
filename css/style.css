@@ -6,7 +6,6 @@
     list-style: none;
     scroll-behavior: smooth;
     font-family: 'Barlow Condensed', sans-serif;
-    overflow-x:hidden;
 
 }
 
@@ -405,7 +404,7 @@ body {
     font-size: 24px;
     margin: 0 10px;
     color: #fff;
-    transition: transform 0.3s;
+    transition: transform 0.5s;
   }
   
   .fa-brands:hover {
@@ -466,7 +465,7 @@ body {
   .footer a {
     color: #6b6bff;
     text-decoration: none;
-    transition: color 0.3s;
+    transition: color 0.2s;
   }
   
   .footer a:hover {
