@@ -5,7 +5,7 @@ const updateTerm = () => {
     if (!term || term === '') {
         alert('Please enter a seach term');
     } else {
-        const url = `https://itunes.apple.com/search?term=${term}`;
+        const url = `https://itunes.apple.com/search?term=${term}&limit=24`;
         const songContainer = document.getElementById('songs');
         while (songContainer.firstChild) {
             songContainer.removeChild(songContainer.firstChild);
