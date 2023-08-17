@@ -6,10 +6,10 @@ KaiTPC.github.io
 
 Using Bootstrap and front-end tools & tatics to layout the front-end page of personal portfolio website (one-page is also acceptable), and have RWD responsive web page effect. After completion, it needs to be uploaded to the student's Github account and the Github Page function should be enabled and the link URL should be submitted.
 
-### Deadline for payment Before the end of the course (before 2023-08-17)
+### Deadline Before the end of the course (before 2023-08-17)
 
 
--Use at least one CSS framework to create web page layout
+-Use CSS framework to create web page layout.
 
 
 -Can apply the functions provided by at least two CSS frameworks to increase the dynamic effect of web pages.
