@@ -2,7 +2,7 @@
 KaiTPC.github.io
 
 
-## PHP Database Web Design - Web Dynamic Technology - 
+## PHP Database Web Design 
 
 Coursework Assignment Content Please use Bootstrap and front-end related knowledge to design the front-end page of personal portfolio website (one-page is also acceptable), and have RWD responsive web page effect. After completion, it needs to be uploaded to the student's Github account and the Github Page function should be enabled and the link URL should be submitted.
 
