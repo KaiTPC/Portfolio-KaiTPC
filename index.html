@@ -725,7 +725,17 @@
           $("#p1").css("color", "red").slideUp(2000).slideDown(2000);
         });
       });
-
+      
+   <!--adding comment -->
+    $(document).ready(function(){
+      $("p2").mousemove(function (){
+        $("p2").css("background-color","yellow");
+      });
+      $("p2").mouseout(function (){
+        $("p2").css("background-color","orange");
+      });
+    })
+    
     </script>
 </body>
 </html>
