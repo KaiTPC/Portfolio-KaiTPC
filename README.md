@@ -43,13 +43,20 @@ Using Bootstrap and front-end tools & tatics to layout the front-end page of per
 
 ## 使用套件：
 (1)Jquery 
-jQuery Effects - Sliding
+
+jQuery Effects - Sliding & mouseout mouseover 
+
 (2)Boostrap v.5.3
+
 (3)font-awesome
 
+
 Ajax方式：
+
 (1)fetch itunes 音源
+
 (2)search bar for limit items
+
 
 
 ## 創作理念：
